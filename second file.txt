@@ -1,1 +1,3 @@
-code from github
+code from GitHub
+
+code from another computer
